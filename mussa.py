@@ -1,0 +1,5 @@
+print('Login CHC')
+nome = input('Digite o seu Nome ')
+Print('Oi ' + nome 'Bem Vindo a CHC Hacker's Club')
+Imail = input(nome + 'Digite o seu E-mail ')
+Senha = input('Crie uma senha de 6 digitos ')
